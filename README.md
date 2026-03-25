@@ -26,7 +26,7 @@ Students register and login to get a JWT token. That token is used to create, vi
 ## Setup
 
 ```bash
-git clone https://github.com/cser-naivedya-raj/Spring-Security-Assessment-Task.git
+git clone https://github.com/cser-naivedya-raj/Java-Advanced-Framework-Spring-Security-Assessment-Task.git
 cd Spring-Security-Assessment-Task/secure-student-project-management-system
 mvn spring-boot:run
 ```
