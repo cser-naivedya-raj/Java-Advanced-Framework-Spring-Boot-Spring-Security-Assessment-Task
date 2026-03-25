@@ -5,8 +5,8 @@ A Spring Boot REST API where students can register, login, and manage their acad
 ## Tech Stack
 
 - Java, Spring Boot, Spring Security
-- JWT (JJWT), BCrypt
-- Spring Data JPA, MySQL / H2
+- JWT 
+- Spring Data JPA, MySQL 
 
 ## How It Works
 
